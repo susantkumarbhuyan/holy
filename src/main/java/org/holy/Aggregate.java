@@ -10,7 +10,7 @@ import org.holy.query.ResultsIterator;
 
 import com.mongodb.client.AggregateIterable;
 import com.mongodb.client.MongoCollection;
-
+//Aggregate
 public class Aggregate {
 	private final MongoCollection<BsonDocument> mongoCollection;
 	private List<Bson> operations = new ArrayList<>();

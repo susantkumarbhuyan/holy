@@ -1,0 +1,24 @@
+-classpath
+'C:/Users/susan/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.15.2/jackson-databind-2.15.2.jar;C:/Users/susan/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.15.2/jackson-annotations-2.15.2.jar;C:/Users/susan/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.15.2/jackson-core-2.15.2.jar;C:/Users/susan/.m2/repository/org/mongodb/mongodb-driver-sync/4.10.2/mongodb-driver-sync-4.10.2.jar;C:/Users/susan/.m2/repository/org/mongodb/mongodb-driver-core/4.10.2/mongodb-driver-core-4.10.2.jar;C:/Users/susan/.m2/repository/org/mongodb/bson/4.10.2/bson-4.10.2.jar;C:/Users/susan/.m2/repository/com/thoughtworks/xstream/xstream/1.4.15/xstream-1.4.15.jar;C:/Users/susan/.m2/repository/xmlpull/xmlpull/1.1.3.1/xmlpull-1.1.3.1.jar;C:/Users/susan/.m2/repository/xpp3/xpp3_min/1.1.4c/xpp3_min-1.1.4c.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'D:/HS - Project/Jongo Updation Project/holy/src/main/java;D:/HS - Project/Jongo Updation Project/holy/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/HS - Project/Jongo Updation Project/holy/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'holy 1.0.0 API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'D:/HS - Project/Jongo Updation Project/holy/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'holy 1.0.0 API'
