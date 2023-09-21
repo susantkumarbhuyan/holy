@@ -7,7 +7,7 @@
 
 	<groupId>io.github.susantkumarbhuyan</groupId>
 	<artifactId>holy</artifactId>
-	<version>1.0.0</version>
+	<version>1.2.0</version>
 	<packaging>jar</packaging>
 
 	<description>Mongo Native Query Driver for Java </description>
@@ -151,7 +151,11 @@
 			<artifactId>bson</artifactId>
 			<version>4.10.2</version>
 		</dependency>
-		
+		<dependency>
+			<groupId>com.thoughtworks.xstream</groupId>
+			<artifactId>xstream</artifactId>
+			<version>1.4.20</version>
+		</dependency>
 	</dependencies>
 
 
