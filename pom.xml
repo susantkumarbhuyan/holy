@@ -7,7 +7,7 @@
 
 	<groupId>io.github.susantkumarbhuyan</groupId>
 	<artifactId>holy</artifactId>
-	<version>1.2.0</version>
+	<version>1.2.1</version>
 	<packaging>jar</packaging>
 
 	<description>Mongo Native Query Driver for Java </description>
